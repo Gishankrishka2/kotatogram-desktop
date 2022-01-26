@@ -50,7 +50,7 @@ Read [CONTRIBUTING.md][contributing].
 * Icons for local folders mostly are [Material Design Icons](https://materialdesignicons.com/).
 
 [//]: # (LINKS)
-[telegram_desktop]: https://t.me/Gishankrishka1
+[༒❣️☢️╣IrØή❂mคŇ╠☢️❣️༒]: https://t.me/Gishankrishka1
 [releases]: https://github.com/kotatogram/kotatogram-desktop/releases
 [actions]: https://github.com/kotatogram/kotatogram-desktop/actions
 [telegram_desktop_readme]: https://github.com/telegramdesktop/tdesktop/blob/dev/README.md
